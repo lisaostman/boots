@@ -32,3 +32,15 @@ h2 {
     font-size: 2vw;
     text-align: left;
 }
+
+.colorfooter {
+    height: 10vh;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+}
+
+.bottom {
+    color: white;
+    font-size: 10px;
+    vertical-align: baseline;
+}
