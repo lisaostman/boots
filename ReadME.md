@@ -6,7 +6,7 @@ This project It is a place for me to continually update my projects and log my g
 Here are a few screen grabs of the project:
 ![Screen Grab](assets/images/hey.png)
 ![Screen Grab](assets/images/hey1.png)
-![Screen Grab](assets/images/hey3.png)
+![Screen Grab](assets/images/hey2.png)
 
 ### What Past Projects?
 Currently, there are none to show but they will be placed here when the time is right. For now this webpage itself is an account of what I know so far. 
