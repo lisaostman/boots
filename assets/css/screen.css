@@ -1,20 +1,32 @@
 @media screen and (max-width: 900px) {
-    body {
+    p {
       font-size: 20px;
       
     }
   }
 
   @media screen and (max-width: 768px) {
-    body {
+    p {
       font-size: 30px;
      
+    }
+    body {
+      font-size: 20px;
     }
   }
 
   @media screen and (max-width: 640px) {
-    body {
+    p {
       font-size: 40px;
     
     }
+
+    body {
+      font-size: 20px;
+    }
+  }
+
+  .tinyyy {
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
